@@ -25,7 +25,7 @@ project-folder/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/home-solutions-login.git
+   git clone git@github.com:masterschool-weiterbildung/weiterbildung-home-solutions.git
    ```
 2. Open `index.html` in a web browser.
 
